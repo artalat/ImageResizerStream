@@ -1,0 +1,19 @@
+{
+  "name": "image-resizer-stream",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artalat/ImageResizerStream.git"
+  },
+  "author": "Abdul Rehman Talat <r.ehmantalat@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/artalat/ImageResizerStream/issues"
+  },
+  "homepage": "https://github.com/artalat/ImageResizerStream#readme"
+}
